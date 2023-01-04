@@ -10,7 +10,8 @@ Welcome to neecodeNotes's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   /notes/first
+   /notes/第一章、刷题需要了解的python用法/techNedded.md
+   /notes/第二章、算法技巧/二分查找判定子序列.md
 
 
 Indices and tables
